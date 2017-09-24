@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">Folding Cell ListView Example</string>
+    <string name="cricket" translatable="false">Cricket</string>
+    <string name="cricket_players" translatable="false">Multi_player</string>
+    <string name="requests_count_mock" translatable="false">5</string>
+    <string name="requests_count_badge" translatable="false">REQUESTS</string>
+    <string name="weight_mock" translatable="false">50 oz</string>
+    <string name="weight_badge" translatable="false">WEIGHT</string>
+    <string name="pledge_mock" translatable="false">$150</string>
+    <string name="pledge_badge" translatable="false">PLEDGE</string>
+    <string name="detailsbadge" translatable="false">Details</string>
+    <string name="cricket_details" translatable="false">Android</string>
+    <string name="rating_mock" translatable="false">(26)</string>
+    <string name="from_badge" translatable="false">FROM</string>
+    <string name="to_badge" translatable="false">TO</string>
+    <string name="delivery_date_badge" translatable="false">DELIVERY DATE</string>
+    <string name="delivery_time_mock" translatable="false">6:30 pm</string>
+    <string name="delivery_date_mock" translatable="false">May 16, 2016</string>
+    <string name="deadline_badge" translatable="false">REQUEST DEADLINE</string>
+    <string name="deadline_time_mock" translatable="false">24 minutes</string>
+    <string name="request_btn_text" translatable="false">REQUEST</string>
+    <string name="btn_annotation_mock" translatable="false">5 people have sent a request</string>
+    <string name="content_from1_mock">21st November 2017</string>
+    <string name="content_from2_mock">21nd November 2017</string>
+    <string name="content_to1_mock">22nd November 2017</string>
+    <string name="content_to2_mock">22nd November 2017</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
